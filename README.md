@@ -72,10 +72,10 @@ All events and errors are logged for auditing. Logs are stored in `monitor.log`.
 
 ## Authors
 This project was developed by:
-- A V Mahesh 
-- Manoj V 
-- Rohan T Y 
-- Abhishek G
+- Arunram R 
+- Jayanthan B N
+- Yashwanth M
+- Bharath J
 
 ## License
 
